@@ -1,0 +1,6 @@
+C:\Users\Maxi Lenzuen\source\repos\TP N°1\TP N°1\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Maxi Lenzuen\source\repos\TP N°1\TP N°1\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Maxi Lenzuen\source\repos\TP N°1\TP N°1\bin\Debug\TP N°1.dll
+C:\Users\Maxi Lenzuen\source\repos\TP N°1\TP N°1\bin\Debug\TP N°1.pdb
+C:\Users\Maxi Lenzuen\source\repos\TP N°1\TP N°1\obj\Debug\TP N°1.dll
+C:\Users\Maxi Lenzuen\source\repos\TP N°1\TP N°1\obj\Debug\TP N°1.pdb

@@ -1,0 +1,13 @@
+C:\Users\Maxi Lenzuen\source\repos\TP N°1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Maxi Lenzuen\source\repos\TP N°1\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Maxi Lenzuen\source\repos\TP N°1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Maxi Lenzuen\source\repos\TP N°1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\Maxi Lenzuen\source\repos\TP N°1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Maxi Lenzuen\source\repos\TP N°1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Maxi Lenzuen\source\repos\TP N°1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Maxi Lenzuen\source\repos\TP N°1\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Maxi Lenzuen\source\repos\TP N°1\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\Maxi Lenzuen\source\repos\TP N°1\MiCalculadora\bin\Debug\TP N°1.dll
+C:\Users\Maxi Lenzuen\source\repos\TP N°1\MiCalculadora\bin\Debug\TP N°1.pdb
+C:\Users\Maxi Lenzuen\source\repos\TP N°1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\Maxi Lenzuen\source\repos\TP N°1\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
