@@ -119,7 +119,15 @@ namespace Entidades
         /// <returns></returns>
         public static Taller operator -(Taller taller, Vehiculo vehiculo)
         {
-            
+            /* Soy conciente que podia utilizar un Contains y eliminarlo directamente sin utilizar un foreach
+             Y que en un foreach no se debe/puede eliminar un elemento . pero utilizé esta logica para 
+             utilizar denuevo la sobrecarga de == de vehiculo, de todos modos dejo la otra opcion.
+
+            if (taller.vehiculos.Contains(vehiculo))
+            {
+                taller.vehiculos.Remove(vehiculo);
+            }
+            */
             foreach (Vehiculo v in taller.vehiculos)
             {
                 if (v == vehiculo)
