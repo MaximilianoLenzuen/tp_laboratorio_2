@@ -103,7 +103,7 @@ namespace Entidades
                 }
             }
 
-            if (aux == 0 && taller.vehiculos.Count() < 6)
+            if (aux == 0 && taller.vehiculos.Count() < taller.espacioDisponible)
             {
                 taller.vehiculos.Add(vehiculo);
             }
