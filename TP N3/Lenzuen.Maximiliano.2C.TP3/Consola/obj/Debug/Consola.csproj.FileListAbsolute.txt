@@ -1,0 +1,16 @@
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP3\Consola\obj\Debug\Consola.csprojAssemblyReference.cache
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP3\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP3\Consola\bin\Debug\Consola.exe.config
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP3\Consola\bin\Debug\Consola.exe
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP3\Consola\bin\Debug\Consola.pdb
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP3\Consola\bin\Debug\Clases Instanciables.dll
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP3\Consola\bin\Debug\Entidades.dll
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP3\Consola\bin\Debug\Excepciones.dll
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP3\Consola\bin\Debug\Archivos.dll
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP3\Consola\bin\Debug\Clases Instanciables.pdb
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP3\Consola\bin\Debug\Entidades.pdb
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP3\Consola\bin\Debug\Excepciones.pdb
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP3\Consola\bin\Debug\Archivos.pdb
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP3\Consola\obj\Debug\Consola.csproj.CopyComplete
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP3\Consola\obj\Debug\Consola.exe
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP3\Consola\obj\Debug\Consola.pdb

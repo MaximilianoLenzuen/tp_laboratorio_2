@@ -1,0 +1,9 @@
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP3\Entidades\bin\Debug\Entidades.dll
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP3\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP3\Entidades\obj\Debug\ClasesAbstractas.csprojAssemblyReference.cache
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP3\Entidades\obj\Debug\ClasesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP3\Entidades\obj\Debug\Entidades.dll
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP3\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP3\Entidades\bin\Debug\Excepciones.dll
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP3\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP3\Entidades\obj\Debug\ClasesAbstractas.csproj.CopyComplete
