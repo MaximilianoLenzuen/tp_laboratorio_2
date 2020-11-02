@@ -142,7 +142,7 @@ namespace EntidadesAbstractas
         {
             int validacion;
             int.TryParse(dato, out validacion);
-            if (validacion != 0)
+            if (validacion != 0 && validacion < 99999999)
             {
                 if ((nacionalidad == ENacionalidad.Argentino && (validacion >= 1 && validacion < 90000000)) || (nacionalidad == ENacionalidad.Extranjero && (validacion > 89999999 && validacion < 100000000)))
                 {
