@@ -1,0 +1,14 @@
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP4\Test\bin\Debug\Test.exe.config
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP4\Test\bin\Debug\Test.exe
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP4\Test\bin\Debug\Test.pdb
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP4\Test\bin\Debug\Archivos.dll
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP4\Test\bin\Debug\Entidades.dll
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP4\Test\bin\Debug\Excepctions.dll
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP4\Test\bin\Debug\Archivos.pdb
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP4\Test\bin\Debug\Entidades.pdb
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP4\Test\bin\Debug\Excepctions.pdb
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP4\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP4\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP4\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP4\Test\obj\Debug\Test.exe
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP4\Test\obj\Debug\Test.pdb

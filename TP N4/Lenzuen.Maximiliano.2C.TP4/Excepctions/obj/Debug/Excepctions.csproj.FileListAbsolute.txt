@@ -1,0 +1,6 @@
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP4\Excepctions\bin\Debug\Excepctions.dll
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP4\Excepctions\bin\Debug\Excepctions.pdb
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP4\Excepctions\obj\Debug\Excepctions.csprojAssemblyReference.cache
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP4\Excepctions\obj\Debug\Excepctions.csproj.CoreCompileInputs.cache
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP4\Excepctions\obj\Debug\Excepctions.dll
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP4\Excepctions\obj\Debug\Excepctions.pdb

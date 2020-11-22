@@ -1,0 +1,17 @@
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP4\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP4\View\obj\Debug\View.FormularioInventario.resources
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP4\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP4\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP4\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP4\View\bin\Debug\View.exe.config
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP4\View\bin\Debug\View.exe
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP4\View\bin\Debug\View.pdb
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP4\View\bin\Debug\Entidades.dll
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP4\View\bin\Debug\Excepctions.dll
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP4\View\bin\Debug\Entidades.pdb
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP4\View\bin\Debug\Excepctions.pdb
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP4\View\obj\Debug\View.csproj.CopyComplete
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP4\View\obj\Debug\View.exe
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP4\View\obj\Debug\View.pdb
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP4\View\bin\Debug\Archivos.dll
+C:\Users\Maxi Lenzuen\source\repos\Lenzuen.Maximiliano.2C.TP4\View\bin\Debug\Archivos.pdb
